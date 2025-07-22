@@ -53,7 +53,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jay-softwaredeveloper/jay-softwaredeveloper/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jay-softwaredeveloper/jay-softwaredeveloper/main/docs/snake.svg" alt="Contribution Snake" width="6000" />
 </p>
 
 ---
